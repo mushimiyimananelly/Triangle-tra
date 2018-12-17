@@ -1,58 +1,8 @@
 h1{
-    color: pink;
-    text-align: center;
-    font-size: 40px;
-    font-style: italic;
-    font-weight: bolder;
-    font-family: fantasy;
-  }
-  h2{
-    color:green;
-    text-align: center;
-    font-weight: normal;
-    text-transform: uppercase;
-    font-size: 20px
-  }
-  h3{
-    color: white;
-    text-align: center;
-    font-weight: normal;
-    text-transform: uppercase;
-    font-size: 30px;
-  }
-
-  body{
-    background-color: gray;
-    font-size: 35px;
-    
-  }
-  .project{
-    text-align: center;
-  }
-  button{
-     background-color: #4CAF50;
-     border: none;
-     color: white;
-     padding: 15px;
-     text-align: center;
-     text-decoration: none;
-     font-size: 25px;
-  }
-  #equil{
-      width: 0;
-      border-bottom: 100px solid black;
-      border-right: 100px solid transparent;
-      border-left: 100px solid transparent;
-  }
-  #isocl{
-    width: 0;
-    border-bottom: 100px solid black;
-    border-right: 200px solid transparent;
-    border-left: 200px solid transparent;
-  }
-  #scalene{
-    width: 0;
-    border-bottom: 100px solid black;
-    border-right: 200px solid transparent;
-    border-left: 50px solid transparent;
-  }
+color: pink;
+text-align: center;
+font-size: 40px;
+font-style: italic;
+font-weight: bolder;
+font-family: fantasy;
+}  
