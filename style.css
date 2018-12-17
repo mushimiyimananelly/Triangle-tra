@@ -39,10 +39,10 @@ h3{
 }
 #equil{
         width: 0;
-        border-bottom: 100px solid black;
+        border-bottom: 200px solid black;
         border-right: 200px solid transparent;
         border-left: 200px solid transparent;
-      }
+      
 }
 #isocl{
     width: 0;
@@ -54,6 +54,6 @@ h3{
     width: 0;
     border-bottom: 100px solid black;
     border-right: 200px solid transparent;
-    border-left: 200px solid transparent;
+    border-left: 300px solid transparent;
   }
 
