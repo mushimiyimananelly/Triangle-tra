@@ -20,3 +20,11 @@ h3{
     text-transform: uppercase;
     font-size: 30px;
   }
+  body{
+    background-color: gray;
+    font-size: 35px;
+    
+  }
+  .project{
+    text-align: center;
+  }
