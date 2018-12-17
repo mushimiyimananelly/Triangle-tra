@@ -28,3 +28,19 @@ h3{
   .project{
     text-align: center;
   }
+  button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+}
+#isocl{
+    width: 0;
+    border-bottom: 100px solid black;
+    border-right: 200px solid transparent;
+    border-left: 200px solid transparent;
+  }
+
