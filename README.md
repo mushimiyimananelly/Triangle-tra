@@ -6,7 +6,7 @@ This is my project that determines whether a set of three numbers can either mak
 * A running network connection to the internet
 * A web browser
  ## LINK
-Click here to see it https://github.com/mushimiyimananelly/Triangle-tracker
+Click here to see it https://mushimiyimananelly.github.io/Triangle-tra/
 ## BDD
 In this application triangle tracker if you enter the length of side 1 and the length of side 2 and the length of side 3 it check if all are equal if all are equal, it tells you that it is equilateral triangle. else if it find that any two sides are equal it tells you that it is isosceles triangle. else if there is no side equal to other and the sum of any two sides is greather than the third, it tells you that it is scalene triangle. esle if the sum of any two sides is less than or equal to the third side , it tells you that it is not a definite triangle.
 ## Technologies used
